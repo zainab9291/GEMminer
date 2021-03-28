@@ -1,0 +1,8 @@
+silico
+network\smodel
+genome-scale
+Modeling
+reconstruct
+stoichiometric
+model\si
+flux

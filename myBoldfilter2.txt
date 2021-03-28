@@ -1,0 +1,24 @@
+s<sup>&#x2212;1</sup>
+m<sup>&#x2212;1</sup>
+h<sup>&#x2212;1</sup>
+&#x3BC;M
+&#x3BC;m<sup>2</sup>
+&#xB5;M
+<italic>k</italic><sub>cat</sub>
+<italic>K</italic><sub>m</sub>
+<italic>V</italic><sub>max</sub>
+K<sub>m</sub>
+V<sub>max</sub>
+&#xB5;m<sup>2</sup>/s
+mM
+k(cat)
+K(m)
+kcat
+s(-1)
+microM
+<italic>&#x3BC;</italic>M
+<italic>&#x3BC;</italic>L/L
+<italic>k</italic><sub><italic>d </italic></sub>
+&#x3BC;l
+
+

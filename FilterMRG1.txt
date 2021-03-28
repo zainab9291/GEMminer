@@ -1,0 +1,8 @@
+Reaction|reactions
+Metabolite|metabolites
+Gen|gen
+i\w+\d+
+bacteria|Bacteria
+silico
+
+

@@ -1,0 +1,6 @@
+i\w+\d+
+((\d+)|(\d+)\,(\d+))\s(reaction|\w+\sreaction)
+((\d+)|(\d+)\,(\d+))\s(\sreaction|\s\w+\sreaction)
+((\d+)|(\d+)\,(\d+))\s(metabolic|metabolite|\w+\smetabolite)
+((\d+)|(\d+)\,(\d+))\s(\smetabolites|\s\w+\smetabolites)
+((\d+)|(\d+)\,(\d+))\s(gene|\w+\sgene)

@@ -1,0 +1,153 @@
+>sen 1 from filter Km|km and from paper 168
+ The Km for BAR-PZA was greater and the kcat
+ was smaller than for PZA determined by saturation kinetics.
+
+>sen 2 from filter Km|km and from paper 376
+ While Golgi membranes stimulated the
+ exchange of GTPgammaS for GDP on all of the ARFs tested, mammalian ARF1 was
+ the best substrate, with an apparent Km of 5 microM.
+
+>sen 1 from filter Kinetics|kinetics and from paper 43
+ Here, we analyzed the
+ kinetics of Golgi breakdown in the absence of COPII-dependent ER export with
+ high temporal and spatial resolution using quantitative fluorescence
+ microscopy.
+
+>sen 2 from filter Kinetics|kinetics and from paper 99
+ On the basis of the
+ site of coated vesicle accumulation, cisternal dilation and the normal
+ kinetics of cargo transport from the endoplasmic reticulum (ER) to Golgi
+ followed by delayed Golgi to cell surface transport, we suggest that Golgi
+ function in cargo transport is preferentially inhibited at the
+ trans-Golgi/trans-Golgi network (TGN).
+
+>sen 3 from filter Kinetics|kinetics and from paper 160
+ We characterized the kinetics of Arf GAP2 and its regulation.
+
+>sen 4 from filter Kinetics|kinetics and from paper 168
+ Analysis of
+ single turnover kinetics revealed a transition state intermediate that was
+ affected by the BAR domain.
+
+>sen 5 from filter Kinetics|kinetics and from paper 193
+ Although these approaches have raised further
+ questions for the field, they have also been instrumental in providing
+ essential new information, in particular relating to the morphology of
+ transport carriers and the exchange kinetics of coat proteins and their
+ regulators on membranes.
+
+>sen 6 from filter Kinetics|kinetics and from paper 252
+
+ The addition of aluminium fluoride locks coatomer onto Golgi membranes and
+ also decreases the binding kinetics of both ARF1 and ARFGAP1, suggesting that
+ these proteins function in concert to mediate sorting and vesicle formation
+
+>sen 7 from filter Kinetics|kinetics and from paper 362
+ To determine whether arf mutants exhibit similar phenotypes, the
+ anterograde transport kinetics of multiple cargo proteins were examined in
+ arf mutant cells, and, surprisingly, both COPI-dependent and COPI-independent
+ cargo proteins exhibited comparable defects.
+
+>sen 8 from filter Kinetics|kinetics and from paper 363
+ The
+ kinetics of transport to late compartments are slower, and less cytosol is
+ needed for guanosine-5'-O-(3-thiotriphosphate) (GTPgammaS) to inhibit
+ transport, suggesting that each assay reconstitutes a distinct transport
+ event.
+
+>sen 9 from filter Kinetics|kinetics and from paper 400
+
+ Moreover, the ATP requirement and kinetics of cell-free fusion are not
+ altered by brefeldin A or depletion of cytosolic ARFs.
+
+>sen 10 from filter Kinetics|kinetics and from paper 406
+ An
+ ARF-free cytosol produced from soluble Chinese hamster ovary (CHO) extracts
+ supports intra-Golgi transport by a mechanism that is biochemically
+ indistinguishable from control transport reactions: ARF-free transport
+ reactions are NSF-dependent, remain sensitive to the donor Golgi-specific
+ inhibitor ilimaquinone, and exhibit kinetics that are identical to that of
+ control reactions containing ARFs.
+
+>sen 11 from filter Kinetics|kinetics and from paper 417
+Brefeldin A (BFA) causes a rapid redistribution of coat proteins
+ (e.g., gamma-adaptin) associated with the clathrin-coated vesicles that bud
+ from the trans-Golgi network (TGN), while the clathrin-coated vesicles that
+ bud from the plasma membrane are unaffected. gamma-Adaptin redistributes with
+ the same kinetics as beta-COP, a coat protein associated with the
+ non-clathrin-coated vesicles that bud from the Golgi complex.
+
+>sen 1 from filter (ATP)|ATP and from paper 62
+ Thus, activation of
+ the sympathetic nervous system releases this population of KATP channels from
+ storage in the Golgi and, hence, might facilitate the adaptive response to
+ metabolic challenges
+
+>sen 2 from filter (ATP)|ATP and from paper 88
+OBJECTIVE: Cell-surface localization and intracellular
+ trafficking are essential for the function of ATP-binding cassette
+ transporter A-1 (ABCA1).
+
+>sen 3 from filter (ATP)|ATP and from paper 198
+ Surprisingly,
+ recruitment of Sec18p to SNAREs did not require Sec17p or ATP hydrolysis.
+
+>sen 4 from filter (ATP)|ATP and from paper 260
+
+ RESULTS: By employing a tetrameric affinity construct of the C terminus of
+ the K(ATP) channel alpha subunit, Kir6.2, we found that 14-3-3 isoforms
+ epsilon and zeta specifically recognize the arginine-based ER localization
+ signal present in this cytosolic tail.
+
+>sen 5 from filter (ATP)|ATP and from paper 318
+ The phosphorylating activity
+ of a protein kinase C, however, plays no role in vesicle formation, since
+ this process does not require ATP
+
+>sen 6 from filter (ATP)|ATP and from paper 327
+ Inhibition of fusion by activated ARF is also
+ independent of endosomal acidification since assays performed in the presence
+ of the vacuolar ATPase inhibitor bafilomycin A1 are equally sensitive to
+ GTPgammaS-bound ARF.
+
+>sen 7 from filter (ATP)|ATP and from paper 341
+ Both pathways require cytosol and ATP and
+ are inhibited by GTPgammaS.
+
+>sen 8 from filter (ATP)|ATP and from paper 345
+Formation of small vesicles resembling synaptic vesicles can be
+ reconstituted in vitro by incubating labeled homogenates of PC12 cells with
+ ATP and two cytoplasmic proteins, AP3 and ARF1 [Faundez, V., Horng, J.-T. &
+ Kelly, R.
+
+>sen 9 from filter (ATP)|ATP and from paper 356
+Synaptic vesicles can be coated in vitro in a reaction that is
+ ARF-, ATP-, and temperature-dependent and requires synaptic vesicle membrane
+ proteins.
+
+>sen 10 from filter (ATP)|ATP and from paper 363
+ Like in vitro transport to
+ the medial-Golgi (medial assay), transport to the trans-Golgi and TGN
+ requires cytosol, ATP, and N-ethylmaleimide-sensitive fusion protein (NSF).
+
+>sen 11 from filter (ATP)|ATP and from paper 372
+ When LDM fractions were solubilized with
+ Thesit (octaethylene glycol dodecyl ether) or Triton X-100, approximately 40%
+ of the alpha-SNAP was colocalized with NSF on glycerol gradients in large
+ (approximately 20S), ATP-sensitive complexes.
+
+>sen 12 from filter (ATP)|ATP and from paper 400
+
+ Moreover, the ATP requirement and kinetics of cell-free fusion are not
+ altered by brefeldin A or depletion of cytosolic ARFs.
+
+>sen 13 from filter (ATP)|ATP and from paper 414
+ After removal
+ of BFA or addition of ATP, membrane tubules served as substrates for the
+ rebinding of beta-COP and for the formation of vesicles in vitro.
+
+>sen 14 from filter (ATP)|ATP and from paper 415
+ Nuclear vesicle fusion, like
+ fusion in the secretory pathway, requires ATP and cytosol and is inhibited by
+ nonhydrolysable GTP analogues.
+

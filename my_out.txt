@@ -1,0 +1,50 @@
+>sen 1 from filter Kinetics|kinetics and from paper 28
+ Here, we analyzed the
+ kinetics of Golgi breakdown in the absence of COPII-dependent ER export with
+ high temporal and spatial resolution using quantitative fluorescence
+ microscopy.
+
+>sen 2 from filter Kinetics|kinetics and from paper 66
+ On the basis of the
+ site of coated vesicle accumulation, cisternal dilation and the normal
+ kinetics of cargo transport from the endoplasmic reticulum (ER) to Golgi
+ followed by delayed Golgi to cell surface transport, we suggest that Golgi
+ function in cargo transport is preferentially inhibited at the
+ trans-Golgi/trans-Golgi network (TGN).
+
+>sen 3 from filter Kinetics|kinetics and from paper 171
+
+ The addition of aluminium fluoride locks coatomer onto Golgi membranes and
+ also decreases the binding kinetics of both ARF1 and ARFGAP1, suggesting that
+ these proteins function in concert to mediate sorting and vesicle formation
+
+>sen 4 from filter Kinetics|kinetics and from paper 249
+ To determine whether arf mutants exhibit similar phenotypes, the
+ anterograde transport kinetics of multiple cargo proteins were examined in
+ arf mutant cells, and, surprisingly, both COPI-dependent and COPI-independent
+ cargo proteins exhibited comparable defects.
+
+>sen 1 from filter (ATP)|ATP and from paper 40
+ Thus, activation of
+ the sympathetic nervous system releases this population of KATP channels from
+ storage in the Golgi and, hence, might facilitate the adaptive response to
+ metabolic challenges
+
+>sen 2 from filter (ATP)|ATP and from paper 177
+
+ RESULTS: By employing a tetrameric affinity construct of the C terminus of
+ the K(ATP) channel alpha subunit, Kir6.2, we found that 14-3-3 isoforms
+ epsilon and zeta specifically recognize the arginine-based ER localization
+ signal present in this cytosolic tail.
+
+>sen 3 from filter (ATP)|ATP and from paper 218
+ The phosphorylating activity
+ of a protein kinase C, however, plays no role in vesicle formation, since
+ this process does not require ATP
+
+>sen 4 from filter (ATP)|ATP and from paper 226
+ Inhibition of fusion by activated ARF is also
+ independent of endosomal acidification since assays performed in the presence
+ of the vacuolar ATPase inhibitor bafilomycin A1 are equally sensitive to
+ GTPgammaS-bound ARF.
+

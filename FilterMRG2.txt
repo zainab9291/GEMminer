@@ -1,0 +1,11 @@
+Reaction|reaction
+Metabolite|metabolite
+Gen|gen
+i\w+\d+
+silico
+biochemical
+enzyme
+Model|model
+
+
+

@@ -1,0 +1,5 @@
+Km|km 
+Kinetics|kinetics
+Kcat
+Vmax
+Vesicles

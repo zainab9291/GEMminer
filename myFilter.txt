@@ -1,0 +1,13 @@
+Km|km 
+Kinetics|kinetics
+Kcat|kcat
+Vmax|vmax
+(ATP)|ATP
+vesicle|Vesicles
+dissociation\sconstant
+dissociation\skd
+association\skd
+turnover|Turnover
+((\d+)|(\d+)\.(\d+))\s(s)
+structure|Structure
+copy|copies
